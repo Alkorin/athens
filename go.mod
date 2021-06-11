@@ -1,1 +1,1 @@
-foobar
+module "github.com/Alkorin/athens";
